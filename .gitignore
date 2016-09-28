@@ -1,5 +1,5 @@
  
-ults/
+results/
 figures/
 
 MATLAB temporary files
@@ -21,3 +21,6 @@ Thumbs.d
 # Pycharm #
 .idea/
 *.pyc
+
+# IPython #
+.ipynb_checkpoints/
